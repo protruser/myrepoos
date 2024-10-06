@@ -1,4 +1,4 @@
-# OSS Git Class
+# OSS Git Class that I like a lot
 
 Hellos
 
